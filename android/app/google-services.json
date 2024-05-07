@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "936525069854",
+    "project_id": "multi-auth-af8c7",
+    "storage_bucket": "multi-auth-af8c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936525069854:android:0ed1dfdb856f9aba48380f",
+        "android_client_info": {
+          "package_name": "com.example.multi_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuwodkyZKCKdhQiUGPTmXoL4ACpM5to1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
